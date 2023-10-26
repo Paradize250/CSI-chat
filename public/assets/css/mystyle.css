@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+main, footer {
+    padding: 3vh;
+  }
+main {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+#edit, #sendMessage {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+#userlist {
+    width: 25%;
+}
+#message {
+    width: 70%;
+}
+
+#navbar {
+  position: fixed;
+  width: 100%; 
+  z-index: 3;
+  top: 0;
+ 
+}
+
+
+
+@media (max-width: 576px) {
+    main {
+        display: block;
+      
+    }
+    #message {
+        width: 100%;
+        margin-top: 3vh;    
+    }
+    #userlist {
+        width: 100%;
+    }
+  }
+  @media (min-width: 992px) {
+   
+    }

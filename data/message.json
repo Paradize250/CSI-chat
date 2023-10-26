@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "id": "BhZLiXPAMANZq0zrAAAB",
+            "text": "\njgfhmsqgqk qfhqmkfg \n\n",
+            "date": "2023-10-25T15:00:33.728Z"
+        },
+        {
+            "id": "BhZLiXPAMANZq0zrAAAB",
+            "text": "this is a message to try the newGlobalMessage emit and on connected in the app and chat js to make sure that the user sends the message to the other users\n\n",
+            "date": "2023-10-26T07:35:15.757Z"
+        },
+        {
+            "id": "BhZLiXPAMANZq0zrAAAB",
+            "text": "this is a message to try the newGlobalMessage emit and on connected in the app and chat js to make sure that the user sends the message to the other users\n\n",
+            "date": "2023-10-26T07:35:18.387Z"
+        },
+        {
+            "id": "azertyuiop",
+            "text": "this is the trial for the ping pong message to check if the first user received an object\n\n\n",
+            "date": "2023-10-26T07:37:23.361Z"
+        },
+        {
+            "id": "MW_qBzMVexi-XvBsAAAB",
+            "text": "this is a message to try the send global messages\n\n\n",
+            "date": "2023-10-26T07:56:27.956Z"
+        }
+    ]
+}
