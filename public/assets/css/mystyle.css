@@ -30,8 +30,6 @@ main {
  
 }
 
-
-
 @media (max-width: 576px) {
     main {
         display: block;

@@ -84,12 +84,12 @@ io.on('connection', client => {
 
 
   //getting the messages from the server
-  client.on("getmessages", () => {
+  client.on("getMessages", () => {
     let tmpMessages;
     fs.readFile("./data/message.json", (err, dataMsg) => {
       console.log("error:" + err);
       tmpMessages = JSON.parse(dataMsg);
-      client.broadcast.emit("sendGlobalMessages", { data: tmpMessages });
+      client.emit("sendGlobalMessages", { data:tmpMessages });
     });
   });
 

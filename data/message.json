@@ -2,11 +2,6 @@
     "messages": [
         {
             "id": "BhZLiXPAMANZq0zrAAAB",
-            "text": "\njgfhmsqgqk qfhqmkfg \n\n",
-            "date": "2023-10-25T15:00:33.728Z"
-        },
-        {
-            "id": "BhZLiXPAMANZq0zrAAAB",
             "text": "this is a message to try the newGlobalMessage emit and on connected in the app and chat js to make sure that the user sends the message to the other users\n\n",
             "date": "2023-10-26T07:35:15.757Z"
         },
